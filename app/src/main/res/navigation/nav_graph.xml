@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/blankFragment">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 3"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="106dp" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 2"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="76dp" />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 4"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="148dp" />
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 5"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="184dp" />
+    <TextView
+        android:id="@+id/fragmentContainerView2"
+        android:layout_width="68dp"
+        android:layout_height="21dp"
+        android:text=" Item 0"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="38dp" />
+    <fragment
+        android:id="@+id/blankFragment"
+        android:name="com.kord.recicleview.BlankFragment"
+        android:label="fragment_blank"
+        tools:layout="@layout/fragment_blank" />
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 3"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="106dp" />
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 2"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="76dp" />
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 4"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="148dp" />
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 5"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="184dp" />
+    <TextView
+        android:id="@+id/fragmentContainerView5"
+        android:layout_width="68dp"
+        android:layout_height="21dp"
+        android:text=" Item 0"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="38dp" />
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 3"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="106dp" />
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 2"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="76dp" />
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 4"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="148dp" />
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 5"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="184dp" />
+    <TextView
+        android:id="@+id/fragmentContainerView4"
+        android:layout_width="68dp"
+        android:layout_height="21dp"
+        android:text=" Item 0"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="38dp" />
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 3"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="106dp" />
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 2"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="76dp" />
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 4"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="148dp" />
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 5"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="184dp" />
+    <TextView
+        android:id="@+id/fragmentContainerView3"
+        android:layout_width="68dp"
+        android:layout_height="21dp"
+        android:text=" Item 0"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="38dp" />
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 3"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="106dp" />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 2"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="76dp" />
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 4"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="148dp" />
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item 5"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="184dp" />
+    <TextView
+        android:id="@+id/fragmentContainerView"
+        android:layout_width="68dp"
+        android:layout_height="21dp"
+        android:text=" Item 0"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="38dp" />
+    <activity
+        android:id="@+id/listFragment"
+        android:name="com.kord.recicleview.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+</navigation>
